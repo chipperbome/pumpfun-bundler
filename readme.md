@@ -5,7 +5,10 @@ With this bundler tool you can create and launch pump.fun tokens and bundle with
 
 To contact and access the bundler program reach out to [@chipperg](https://t.me/chipperg) on Telegram.
 
-Support & questions join my community: [VERTEX](https://t.me/VERTEXtoken) - we're fair launching soon on Solana
+Support & questions join my community: https://t.me/SOLDevCommunity.
+
+### ❌ ZERO TAX program
+Unlike many other devs selling scripts, my program has no (0%) tax.
 
 # Proof of concept
 https://pump.fun/3CUyompPwE9kZR3EZnmrY63kbCFWgVV1cTSRRJ8S8roP
