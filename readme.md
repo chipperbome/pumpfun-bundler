@@ -1,12 +1,3 @@
-# Proof of concept
-https://pump.fun/3CUyompPwE9kZR3EZnmrY63kbCFWgVV1cTSRRJ8S8roP
-
-## Launching video
-![launch poc](https://github.com/chipperbome/pumpfun-bundler/blob/main/launch-pfbundler.mp4?raw=true)
-
-## Selling video
-![launch poc](https://github.com/chipperbome/pumpfun-bundler/blob/main/selling-pfbundler.mp4?raw=true)
-
 # 🔥 Pump.fun Launch Bundler
 Welcome to the Pump.Fun bundler written in Node.js and executable as a node instance.
 
@@ -15,6 +6,15 @@ With this bundler tool you can create and launch pump.fun tokens and bundle with
 To contact and access the bundler program reach out to [@chipperg](https://t.me/chipperg) on Telegram.
 
 Support & questions join my community: [VERTEX](https://t.me/VERTEXtoken) - we're fair launching soon on Solana
+
+# Proof of concept
+https://pump.fun/3CUyompPwE9kZR3EZnmrY63kbCFWgVV1cTSRRJ8S8roP
+
+## Launching video
+https://github.com/chipperbome/pumpfun-bundler/assets/101670593/7d69fd4f-e800-4d58-9988-14b218f8d930
+
+## Selling video
+https://github.com/chipperbome/pumpfun-bundler/assets/101670593/f7e1ea17-b026-4bd6-a96d-8e6c0adf601c
 
 ## Example:
 1. https://pump.fun/4VYWkn31VF8JJXjCbTZP6NR4zLr9YnpSBoeTSbzkmUki
