@@ -1,3 +1,12 @@
+# Proof of concept
+https://pump.fun/3CUyompPwE9kZR3EZnmrY63kbCFWgVV1cTSRRJ8S8roP
+
+## Launching video
+![launch poc](https://github.com/chipperbome/pumpfun-bundler/blob/main/launch-pfbundler.mp4?raw=true)
+
+## Selling video
+![launch poc](https://github.com/chipperbome/pumpfun-bundler/blob/main/selling-pfbundler.mp4?raw=true)
+
 # 🔥 Pump.fun Launch Bundler
 Welcome to the Pump.Fun bundler written in Node.js and executable as a node instance.
 
@@ -8,7 +17,8 @@ To contact and access the bundler program reach out to [@chipperg](https://t.me/
 Support & questions join my community: [VERTEX](https://t.me/VERTEXtoken) - we're fair launching soon on Solana
 
 ## Example:
-https://pump.fun/4VYWkn31VF8JJXjCbTZP6NR4zLr9YnpSBoeTSbzkmUki
+1. https://pump.fun/4VYWkn31VF8JJXjCbTZP6NR4zLr9YnpSBoeTSbzkmUki
+2. https://pump.fun/3CUyompPwE9kZR3EZnmrY63kbCFWgVV1cTSRRJ8S8roP
 
 ## Other tools/programs
 - [Raydium bundler (Telegram bot)](https://t.me/SOLBundlerManagerBot)
