@@ -7,17 +7,14 @@ To contact and access the bundler program reach out to [@chipperg](https://t.me/
 
 Support & questions join my community: https://t.me/SOLDevCommunity.
 
+### Supports custom CA
+Generate a custom CA with a prefix or suffix using Solana CLI and use it to launch on pump.fun.
+
 ### ❌ ZERO TAX program
 Unlike many other devs selling scripts, my program has no (0%) tax.
 
 # Proof of concept
-https://pump.fun/3CUyompPwE9kZR3EZnmrY63kbCFWgVV1cTSRRJ8S8roP
-
-## Launching video
 https://github.com/chipperbome/pumpfun-bundler/assets/101670593/7d69fd4f-e800-4d58-9988-14b218f8d930
-
-## Selling video
-https://github.com/chipperbome/pumpfun-bundler/assets/101670593/f7e1ea17-b026-4bd6-a96d-8e6c0adf601c
 
 ## Example:
 1. https://pump.fun/4VYWkn31VF8JJXjCbTZP6NR4zLr9YnpSBoeTSbzkmUki
