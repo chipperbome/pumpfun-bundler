@@ -5,6 +5,8 @@ With this bundler tool you can create and launch pump.fun tokens and bundle with
 
 To contact and access the bundler program reach out to [@chipperg](https://t.me/chipperg) on Telegram.
 
+## Price 15 SOL
+
 Support & questions join my community: https://t.me/SOLDevCommunity.
 
 ### Supports custom CA
