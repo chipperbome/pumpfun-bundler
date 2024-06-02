@@ -6,7 +6,6 @@ With this bundler tool you can create and launch pump.fun tokens and bundle with
 To contact and access the bundler program reach out to [@chipperg](https://t.me/chipperg) on Telegram.
 
 ## Price 15 SOL
-
 Support & questions join my community: https://t.me/SOLDevCommunity.
 
 ### Supports custom CA
@@ -14,6 +13,11 @@ Generate a custom CA with a prefix or suffix using Solana CLI and use it to laun
 
 ### ❌ ZERO TAX program
 Unlike many other devs selling scripts, my program has no (0%) tax.
+
+# Telegram version
+I also have a telegram bot that is free to use. With small taxes, to pay off the taxes you can buy a license.
+POC: https://t.me/PumpFunBundler/14
+BOT: https://t.me/PumpFunBundlerBot
 
 # Proof of concept
 https://github.com/chipperbome/pumpfun-bundler/assets/101670593/7d69fd4f-e800-4d58-9988-14b218f8d930
